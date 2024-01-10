@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Kaya</h1>
 <h3 align="center">Hello, I am improving myself in software and I upload my projects here.</h3>
 
-- 🌱 I’m currently learning **HTML & WPF**
+- 🌱 I’m currently learning  WPF**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hr0dgeir?tab=repositories](https://github.com/Hr0dgeir?tab=repositories)
 
